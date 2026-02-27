@@ -1,0 +1,7 @@
+{
+  "name": "Real Society",
+  "description": "A professional AI-powered personal assistant and productivity suite with secure notes, social features, and an advanced admin panel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
